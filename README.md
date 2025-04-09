@@ -4,3 +4,4 @@ These tasks included encoding, visualization, skewness and correlation.
 Our team named 'Code Crushers' worked on correlation between the various features in the taxi data.
 Some of the features had strong positive correlation, others had weak negative correlation, weak postiive correlation and strong negative correlation.
 Our team had to extract correlation values with sales
+Histograms for numeric values were also created
