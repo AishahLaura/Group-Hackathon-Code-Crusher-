@@ -1,5 +1,5 @@
 # Group-Hackathon
-This hackathon involved 4 teams in our bootcamp, with each team working on completely different tasks in the Exploratory Data Analysis in taxi data.
+* This hackathon involved 4 teams in our bootcamp, with each team working on completely different tasks in the Exploratory Data Analysis in taxi data.
 
 These tasks included encoding, visualization, skewness, and correlation.
 
