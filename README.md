@@ -1,7 +1,7 @@
 # Group-Hackathon
 This hackathon involed 4 teams in our bootcamp, with each team working on completely different tasks in the Exploratory Data Analysis in a taxi data.
 These tasks included encoding, visualization, skewness and correlation.
-Our team named 'Code Crushers' worked on correlation between the various features in the taxi data.
+Our team named 'Code Crushers' worked on correlation between the various features in the marketing sales data.
 Some of the features had strong positive correlation, others had weak negative correlation, weak postiive correlation and strong negative correlation.
-Our team had to extract correlation values with sales
-Histograms for numeric values were also created
+Our team had to extract correlation values with  marketing sales.
+Histograms for numeric values were also created.
