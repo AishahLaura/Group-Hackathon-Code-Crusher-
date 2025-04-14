@@ -1,9 +1,9 @@
-# Group-Hackathon
-* This hackathon involved 4 teams in our bootcamp, with each team working on completely different tasks in the Exploratory Data Analysis in taxi data.
+# Group Hackathon Overview
 
-* These tasks included encoding, visualization, skewness, and correlation.
+* During our recent bootcamp, we hosted an engaging hackathon involving four diverse teams, each tackling unique challenges within the realm of Exploratory Data Analysis (EDA) focused on marketing sales data.
 
-* Our team, named 'Code Crushers', worked on analysing the correlation between the various features in the marketing sales data.
-Some features had strong/positive correlation whilst others had weak/negative correlation.
+* The specific tasks assigned to each team encompassed essential EDA techniques, including various forms of data encoding, creating compelling visualizations, examining skewness in data distributions, and analyzing correlation metrics among the variables.
 
-* Our team had to extract correlation values with  marketing sales, and histogram visualizations for numeric values were also created.
+* Our team, proudly named 'Code Crushers', dedicated our efforts to a thorough analysis of the correlation between different features within the marketing sales dataset. We discovered that some features exhibited a strong positive correlation, indicating that as one variable increased, so did the other. Conversely, we also identified features with weak or even negative correlations, suggesting an inverse relationship between certain variables.
+
+* To achieve our objectives, we meticulously extracted correlation coefficients for the relevant features in relation to marketing sales. Additionally, we developed detailed histogram visualizations for the numeric variables, which provided insightful visual representations of the data distribution and facilitated a deeper understanding of the relationships at play.
